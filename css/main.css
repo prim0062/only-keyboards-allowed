@@ -11,6 +11,10 @@ html {
   top: 0;
 }
 
+.nav ul li a:focus {
+  outline: 3px solid #fff;
+}
+
 .section-dark {
   background-color: #000308;
   color: #fff;
